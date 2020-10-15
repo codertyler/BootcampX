@@ -11,8 +11,8 @@
 			"configuration": {
 				"host": "localhost",
 				"port": "5432",
-				"database": "bootcampx",
-				"url": "jdbc:postgresql://localhost:5432/bootcampx",
+				"database": "lightbnb",
+				"url": "jdbc:postgresql://localhost:5432/lightbnb",
 				"type": "dev",
 				"properties": {
 					"connectTimeout": "20",
